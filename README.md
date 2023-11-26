@@ -1,21 +1,29 @@
 # Cos-imo (Cosimo UNGARO)
 
+![Static Badge](https://img.shields.io/badge/Root--Me_%3A_fabdeldongo-1365_points-black?link=https%3A%2F%2Fwww.root-me.org%2Fcos-imo%3Flang%3Dfr%239f6659a9a58d3173736237412d7932f8)
+![Static Badge](https://img.shields.io/badge/CryptoHack_%3A_fabdeldongo-865_points-orange?link=https%3A%2F%2Fcryptohack.org%2Fuser%2Ffabdeldongo%2F)
+![Static Badge](https://img.shields.io/badge/Mon_site%3A-cosimoungaro.fr-blue?link=cosimoungaro.fr)
+
+
 ## Introduction
 ### Français
 Actuellement élève en deuxième année à [Télécom Nancy](https://telecomnancy.univ-lorraine.fr)
-J'ai également un [site web](NULL) (mais il n'y a pas encore de lien parce qu'il n'est pas terminé :) )
+J'ai également un [site web](cosimoungaro.fr) 
 ### English
 Currently enrolled in second year @ [Télécom Nancy](https://telecomnancy.univ-lorraine.fr)
-I also have a web site (not currently available due to multiple flaws in my source code, but I promise it'll be fixed soon :) )
+I also have a [web site](cosimoungaro.fr)
 
 ## Informations diverses
 
-### Main projects rn:
-* Well actually I have a lot of projects for school so I focus on them. But still:
-* Working on root-me and cryptohack
-* Finishing my portfolio
-* Building a C compiler (on this GitHub, private)
-* python packet sniffer (on this GitHub, public)
+### Principaux projets
+#### Scolaire
+* [PPII-1](https://github.com/cos-imo/ppii-1)
+* [PPII-2](https://github.com/cos-imo/ppii-2)
+* [DesignPatterns RPG](https://github.com/cos-imo/Design_Pattern_RPG)
+#### Personnel
+* Mon [portfolio](https://github.com/cos-imo/portfolio-raspberry)
+* Une partie de l'[Advent Of Code](https://github.com/cos-imo/AdventOfCode)
+* Une [barre de recherche minimaliste](https://github.com/cos-imo/YouTube-search) pour Youtube
 
 ### Environment
 * CLI enjoyer
@@ -27,7 +35,6 @@ I also have a web site (not currently available due to multiple flaws in my sour
 * Assembly (mainly ARM but I'm currently learning x86 on my own)
 * Python
 * Java
-* A bit of C++/C#
 * shell
 * HTML/CSS (Bootstrap and Tailwind)
 
