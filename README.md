@@ -37,16 +37,5 @@ I also have a [web site](cosimoungaro.fr)
 
 ## Informations diverses
 
-### Principaux projets
-#### Scolaire
-* [PPII-1](https://github.com/cos-imo/ppii-1)
-* [PPII-2](https://github.com/cos-imo/ppii-2)
-* [DesignPatterns RPG](https://github.com/cos-imo/Design_Pattern_RPG)
-#### Personnel
-* Mon [portfolio](https://github.com/cos-imo/portfolio-raspberry)
-* Une partie de l'[Advent Of Code](https://github.com/cos-imo/AdventOfCode)
-* Une [barre de recherche minimaliste](https://github.com/cos-imo/YouTube-search) pour Youtube
-
-
 ### Autres projets
 * Je trafique pas mal mon ancien ordi en ce moment :)
