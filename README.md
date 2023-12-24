@@ -3,7 +3,7 @@
 ##### Retrouvez-moi!
 
 <p align="center">
-  <a href="https://www.root-me.org/cos-imo?q=%2Ffabdeldongo&inc=score&lang=fr"><img src="https://img.shields.io/badge/fabdeldongo_2345_points-black?logo=rootme"/></a>
+  <a href="https://www.root-me.org/cos-imo?q=%2Ffabdeldongo&inc=score&lang=fr"><img src="https://img.shields.io/badge/fabdeldongo_2375_points-black?logo=rootme"/></a>
   <img src="https://img.shields.io/badge/CryptoHack_%3A_fabdeldongo-865_points-orange?link=https%3A%2F%2Fcryptohack.org%2Fuser%2Ffabdeldongo%2F"/>
   <a href="cosimoungaro.fr"><img src="https://img.shields.io/badge/Portfolio-cosimoungaro.fr-blue"/></a>
   <a href="https://github.com/cos-imo/AdventOfCode"><img src="https://img.shields.io/badge/AdventOfCode-53_stars-FFFF66?logo=adventofcode"/></a>
