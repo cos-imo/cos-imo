@@ -30,7 +30,7 @@
 
 ## Introduction
 ### Français
-Actuellement élève en deuxième année à [Télécom Nancy](https://telecomnancy.univ-lorraine.fr)
+Actuellement élève en troisième année à [Télécom Nancy](https://telecomnancy.univ-lorraine.fr)
 J'ai également un [site web](cosimoungaro.fr) 
 ### English
 Currently enrolled in second year @ [Télécom Nancy](https://telecomnancy.univ-lorraine.fr)
